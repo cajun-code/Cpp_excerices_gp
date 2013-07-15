@@ -1,0 +1,9 @@
+.DS_Store
+
+# C++
+*.obj
+*.o 
+*.so
+*.dll
+
+build
